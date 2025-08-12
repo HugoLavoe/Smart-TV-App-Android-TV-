@@ -25,7 +25,7 @@ AndroidX Leanback (componentes para TV)
 Clona el repositorio:
 
 sh
-git clone https://github.com/tu-usuario/smart-tv-app.git
+git clone https://github.com/HugoLavoe/smart-tv-app.git
 Abre el proyecto en Android Studio (versión estable recomendada).
 
 Ejecuta en un emulador de Android TV (API 26+) o en un dispositivo real.
